@@ -60,11 +60,11 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-<img src="img/111.jpg"/>
+<img src="src/img/111.png"/>
 
-<img src="img/222.jpg"/>
+<img src="src/img/222.png"/>
 
-<img src="img/123.jpg"/>
+<img src="src/img/123.png"/>
 
 
 
